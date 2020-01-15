@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CSV Reader App</string>
+    <string name="no_items_avaliable">No items avaliable</string>
+    <string name="person_image">person image</string>
+</resources>
